@@ -40,5 +40,6 @@ winner= False
 label=tk.Label(root, text=f"Player {current_player}'s turn", font=('normal',16))
 label.grid(row=3, column=0, columnspan=3)
  
-#root.mainloop()
+root.mainloop()
+
 
